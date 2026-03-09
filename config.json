@@ -14,8 +14,8 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "💻ɴᴏᴏʙ ᴄᴏʀᴇ⚡",
-  "prefix": "-",
+  "nickNameBot": "Your Heartbeat 😘",
+  "prefix": ",",
   "allowAdminNoPrefix": true,
   "adminOnly": {
     "enable": false,
@@ -44,7 +44,7 @@
     "2177252409470039"
   ],
   "adminBot": [
-    "100077764623961"
+    "61579428280527"
   ],
   "creator": [
     "61565898444113"
